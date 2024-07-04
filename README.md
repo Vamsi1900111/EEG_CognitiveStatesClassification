@@ -27,4 +27,4 @@ git clone https://github.com/Vamsi1900111/EEG_CognitiveStatesClassification.git
 
 ## Usage
 
-Follow the Jupyter Notebook for feature esctraction, model training, and evaluation.
+Follow the Jupyter Notebook(EEG_cognitive_state_classification.ipynb) for model training, and evaluation.
